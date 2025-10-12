@@ -1,14 +1,9 @@
 ### Hi there 👋, HELLO I AM AKHTER HOSSEN BADAL.
-https://media.licdn.com/dms/image/v2/D4D16AQFNQNajiR7goQ/profile-displaybackgroundimage-shrink_350_1400/B4DZnR2zLdJMAY-/0/1760162430647?e=1762992000&v=beta&t=0EeYJfxZXe-OglEA8WoxdgblN5f9wToc4tp9fpNVwG0
+
 #### I AM A WEB DEVLOPER.
 Hello I am a web Devloper.I am a passionate and curious student of Computer Science and Technology with a growing interest in web development. Over the past year, I have been actively learning and building with front-end technologies, including HTML, CSS, JavaScript, and modern frameworks.I believe technology is not just about code it's about solving real-world problems through innovation and creativity. I enjoy exploring new tools, experimenting with ideas, and constantly pushing myself to learn something new every day.Currently, I’m focusing on building responsive and user-friendly websites, while also understanding the logic behind how things work under the hood. My goal is to become a full-stack web developer who not only writes code but also creates impact.For me, LinkedIn is more than a profile—it's a platform where I connect, share, and grow with like-minded individuals in the tech community. I'm always open to learning opportunities, collaborations, and meaningful conversations.Skills & Tools: HTML, CSS, JavaScript, React (if applicable), Git & GitHub, problem solving Learning mindset |Innovation-driven | Future developer
 
 Skills: HTML CSS JAVASCRIPT REACT.JS AND CSS FRAMEWORKS E.T.C
-
-- 🔭 I’m currently working on STUDENT 
-- 🌱 I’m currently learning JAVASCRIPT 
-- 👯 I’m looking to collaborate on GITHUB 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AH-BADAL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akhter-hossen-badal-944915367//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61580940830228)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ah-badal.github.io/AHB-WEBS/)  
 
