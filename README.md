@@ -1,6 +1,7 @@
 ### HI THERE! HELLO I AM AKHTER HOSSEN BADAL.
 
 #### I AM A WEB DEVLOPER.
+https://media.licdn.com/dms/image/v2/D4D16AQFNQNajiR7goQ/profile-displaybackgroundimage-shrink_350_1400/B4DZnR2zLdJMAY-/0/1760162430647?e=1762387200&v=beta&t=DWbdSqjbBTh8mor2TxS1YSgmqJqVVwrWShUgA4oyitY
 Hello I am a web Devloper.I am a passionate and curious student of Computer Science and Technology with a growing interest in web development. Over the past year, I have been actively learning and building with front-end technologies, including HTML, CSS, JavaScript, and modern frameworks.I believe technology is not just about code it's about solving real-world problems through innovation and creativity. I enjoy exploring new tools, experimenting with ideas, and constantly pushing myself to learn something new every day.Currently, I’m focusing on building responsive and user-friendly websites, while also understanding the logic behind how things work under the hood. My goal is to become a full-stack web developer who not only writes code but also creates impact.For me, LinkedIn is more than a profile—it's a platform where I connect, share, and grow with like-minded individuals in the tech community. I'm always open to learning opportunities, collaborations, and meaningful conversations.Skills & Tools: HTML, CSS, JavaScript, React (if applicable), Git & GitHub, problem solving Learning mindset |Innovation-driven | Future developer
 
 Skills: HTML CSS JAVASCRIPT REACT.JS AND CSS FRAMEWORKS E.T.C
