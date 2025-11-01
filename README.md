@@ -1,5 +1,5 @@
-### Hi there, I am Akhter Hossen Badal
-#### I am a Frontend Web  Devloper
+### HI THERE, I AM AKHTER HOSSEN BADAL
+####I AM A MERNSTAK WEB DEVLOPER
 I am a passionate and curious student of Computer Science and Technology with a growing interest in web development. Over the past year, I have been actively learning and building with front-end technologies, including HTML, CSS, JavaScript, and modern frameworks.I believe technology is not just about code—it's about solving real-world problems through innovation and creativity. I enjoy exploring new tools, experimenting with ideas, and constantly pushing myself to learn something new every day. Currently, I’m focusing on building responsive and user-friendly websites, while also understanding the logic behind how things work under the hood. My goal is to become a full-stack web developer who not only writes code but also creates impact. For me, LinkedIn is more than a profile—it's a platform where I connect, share, and grow with like-minded individuals in the tech community. I'm always open to learning opportunities, collaborations, and meaningful conversations. Skills & Tools: HTML, CSS, JavaScript, React (if applicable), Git & GitHub,  problem solving Learning mindset |Innovation-driven | Future developer
 
 Skills: HTML | CSS | JAVASCRIPT | REACT.JS | GIT | GITHUB | CSS FRAMEWORKS | PROBLEM SOLVING | RESPONSIVE WEBSITE |ETC
