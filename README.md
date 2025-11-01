@@ -18,19 +18,6 @@ Skills: HTML | CSS | JAVASCRIPT | REACT.JS | GIT | GITHUB | CSS FRAMEWORKS | PRO
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
-
-
-
-
-
-
-# 💫 About Me:
-I am a passionate and curious student of Computer Science and Technology with a growing interest in web development. Over the past year, I have been actively learning and building with front-end technologies, including HTML, CSS, JavaScript, and modern frameworks.I believe technology is not just about code—it's about solving real-world problems through innovation and creativity. I enjoy exploring new tools, experimenting with ideas, and constantly pushing myself to learn something new every day. Currently, I’m focusing on building responsive and user-friendly websites, while also understanding the logic behind how things work under the hood. My goal is to become a full-stack web developer who not only writes code but also creates impact. For me, LinkedIn is more than a profile—it's a platform where I connect, share, and grow with like-minded individuals in the tech community. I'm always open to learning opportunities, collaborations, and meaningful conversations. <br>Skills & Tools: HTML, CSS, JavaScript, React (if applicable), Git & GitHub, problem solving Learning mindset |Innovation-driven | Future developer
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akhter Hossen Badal) 
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 # 📊 GitHub Stats:
